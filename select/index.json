@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Shivers",
+  "base_artist": "Ed Sheeran",
+  "createdAt": "2025-12-06T14:35:22.508785Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shivers",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/01_Shivers_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Send Me Shivers",
+      "artist": "Mouse On Mars",
+      "has_synced": false,
+      "path": "select/02_Send_Me_Shivers_Mouse_On_Mars.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "In the Darkness - Mike Shiver's Catching Sun Dub",
+      "artist": "Darude",
+      "has_synced": false,
+      "path": "select/03_In_the_Darkness_-_Mike_Shiver's_Catching_Sun_Dub_Darude.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shivers",
+      "artist": "Dio",
+      "has_synced": true,
+      "path": "select/04_Shivers_Dio.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shivers Down My Spine",
+      "artist": "King Khan and the Shrines",
+      "has_synced": true,
+      "path": "select/05_Shivers_Down_My_Spine_King_Khan_and_the_Shrines.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shivers Down My Spine",
+      "artist": "King Khan & the Shrines",
+      "has_synced": true,
+      "path": "select/06_Shivers_Down_My_Spine_King_Khan_&_the_Shrines.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shivers",
+      "artist": "The One AM Radio",
+      "has_synced": false,
+      "path": "select/07_Shivers_The_One_AM_Radio.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shivers",
+      "artist": "Current Joys",
+      "has_synced": true,
+      "path": "select/08_Shivers_Current_Joys.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shivers",
+      "artist": "Netrum feat. Halvorsen",
+      "has_synced": true,
+      "path": "select/09_Shivers_Netrum_feat._Halvorsen.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shivers",
+      "artist": "Netrum",
+      "has_synced": true,
+      "path": "select/10_Shivers_Netrum.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shivers",
+      "artist": "Armin van Buuren feat. Susana",
+      "has_synced": true,
+      "path": "select/11_Shivers_Armin_van_Buuren_feat._Susana.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Shivers",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/12_Shivers_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Shivers",
+      "artist": "Armin van Buuren",
+      "has_synced": false,
+      "path": "select/13_Shivers_Armin_van_Buuren.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Shivers - Alex M.O.R.P.H. Red Light Dub",
+      "artist": "Armin van Buuren",
+      "has_synced": false,
+      "path": "select/14_Shivers_-_Alex_M.O.R.P.H._Red_Light_Dub_Armin_van_Buuren.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Shivers",
+      "artist": "Matduke feat. Metzen",
+      "has_synced": true,
+      "path": "select/15_Shivers_Matduke_feat._Metzen.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Shivers",
+      "artist": "Matduke & Metzen",
+      "has_synced": true,
+      "path": "select/16_Shivers_Matduke_&_Metzen.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Shivers",
+      "artist": "Ed Sheeran",
+      "has_synced": true,
+      "path": "select/17_Shivers_Ed_Sheeran.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Shivers - Alex M.O.R.P.H. Redlight Dub",
+      "artist": "Armin van Buuren feat. Susana",
+      "has_synced": false,
+      "path": "select/18_Shivers_-_Alex_M.O.R.P.H._Redlight_Dub_Armin_van_Buuren_feat._Susana.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shivers",
+      "artist": "Ed Sheeran",
+      "has_synced": false,
+      "path": "select/pl_01_Shivers_Ed_Sheeran.txt"
+    }
+  ]
+}
